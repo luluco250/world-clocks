@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+	color: black;
+	background: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+wc-clock {
+	font-size: 3rem;
+}
